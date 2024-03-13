@@ -1,0 +1,21 @@
+@media screen and (max-width:768px){
+    body{
+        background-size: auto;
+        font-size: 13px;
+    }
+
+    .cart{
+        width: 100%;
+    }
+
+    #cart-picture{
+        width: 100%;
+    }
+
+    #cart-validade{
+        position: absolute;
+        font-size: 14px;
+        left: 290px;
+        top: 210px;
+    }
+}
