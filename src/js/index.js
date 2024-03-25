@@ -6,6 +6,8 @@ document.querySelector("#ok-btn").addEventListener("click", function(){
         window.location.replace("https://consultadecarteirinhas.github.io/Carteirinha-Estudante/user_3273575b3.html")
     }else if(texto === "3284675b2"){
         window.location.replace("https://consultadecarteirinhas.github.io/Carteirinha-Estudante/user_3284675b2.html")
+    }else if(texto === "3192675b3"){
+        window.location.replace("https://consultadecarteirinhas.github.io/Carteirinha-Estudante/user_3192675b3.html")
     }
 })
 
